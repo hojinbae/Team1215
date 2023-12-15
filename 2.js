@@ -1,4 +1,4 @@
-/* 스크립트추추가 함수 선언 */
+/* 스크립트추가 함수 선언 */
 <script>
  function add(num1, num2){
 
